@@ -12,6 +12,6 @@ class Student < User
   end
   
   def knowledge
-    self.knowledge
+    self.@knowledge
   end
 end
